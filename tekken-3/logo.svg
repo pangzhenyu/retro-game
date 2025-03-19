@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80" height="80" viewBox="0 0 80 80" xmlns="http://www.w3.org/2000/svg">
+    <style>
+        .arcade-text { font: bold 12px 'Press Start 2P', monospace; }
+    </style>
+    <!-- 复古游戏机形状 -->
+    <rect x="10" y="5" width="60" height="70" rx="5" fill="#FFD700"/>
+    <rect x="15" y="10" width="50" height="40" rx="2" fill="#000"/>
+    <!-- 控制按钮 -->
+    <circle cx="25" cy="60" r="5" fill="#FF0000"/>
+    <circle cx="40" cy="60" r="5" fill="#0000FF"/>
+    <circle cx="55" cy="60" r="5" fill="#00FF00"/>
+</svg> 
